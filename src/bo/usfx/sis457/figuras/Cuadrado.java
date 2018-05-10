@@ -5,7 +5,7 @@ package bo.usfx.sis457.figuras;
 
 /**
  * Clase cuadrado que calcula el Area y Perímetro en base a su lado
- * @author Marcelo
+ * @author Nicolás Castro
  */
 public class Cuadrado {
     private double Lado;

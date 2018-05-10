@@ -5,7 +5,7 @@ package bo.usfx.sis457.figuras;
 
 /**
  * Clase Circulo que calcula el área y perímetro en base a su radio
- * @author Marcelo
+ * @author Nicolás Castro
  */
 public class Circulo {
     private float Radio;
